@@ -1,5 +1,5 @@
 /* TYPER */
-const TYPER = function () {
+const TYPER = function () { 
   if (TYPER.instance_) {
     return TYPER.instance_
   }
